@@ -1,0 +1,1782 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT B
+AU Lewis, MK
+AF Lewis, Mervyn K.
+BA Lewis, MK
+BF Lewis, MK
+TI Five other case studies: from shaking down the FBI to bitcoin fraud
+SO UNDERSTANDING PONZI SCHEMES: CAN BETTER FINANCIAL REGULATION PREVENT
+   INVESTORS FROM BEING DEFRAUDED?
+SE New Horizons in Money and Finance
+BN 978-1-78254-910-9; 978-1-78254-909-3
+PY 2015
+BP 86
+EP 106
+D2 10.4337/9781782549109
+UT WOS:000370155800006
+ER
+
+PT B
+AU Matl, L
+   Cerny, T
+   Donahoo, MJ
+AF Matl, Lubos
+   Cerny, Tomas
+   Donahoo, Michael J.
+BE Shin, D
+TI Effective Manycast Messaging for Kademlia Network
+SO 30TH ANNUAL ACM SYMPOSIUM ON APPLIED COMPUTING, VOLS I AND II
+CT 30th ACM Symposium on Applied Computing (SAC)
+CY APR 13-17, 2015
+CL Salamanca, SPAIN
+SP ACM, ACM Special Interest Grp Appl Comp, Telefonica, IBM
+AB Peer-to-peer (P2P) communication plays an ever-expanding role in critical applications with rapidly growing user bases. In addition to well-known P2P systems for data sharing (e.g., BitTorrent), P2P provides the core mechanisms in VoIP (e.g., Skype), distributed currency (e.g., BitCoin), etc. There are many communication commonalities in P2P applications; consequently, we can factor these communication primitives into overlay services. Such services greatly simplify P2P application development and even allow P2P infrastructures to host multiple applications, instead of each having its own network. Note well that such services must be both self-scaling and robust to meet the needs of large, ad hoc user networks. One such service is Distributed Hash Table (DHT) providing a dictionary-like location service, useful in many types of P2P applications. Building on the DHT primitives for search and store, we can add even more powerful group communication services to increase network capabilities with nodes-group formation and messaging (many cast, anycast, multicast, etc.). We begin by providing a survey of DHT networks and their group communication extensions. Next, we propose extensions for the Kademlia DHT to allow group communication and compare its properties with existing group communication services in the Pastry network. We place particular on manycast as it is a more generalized form of communication that has received little attention from the research community. Using these empirical results, we show which network is best suited to particular communication situations.
+RI Cerny, Tomas/K-8011-2012
+OI Cerny, Tomas/0000-0002-5882-5502
+PY 2015
+BP 646
+EP 652
+DI 10.1145/2695664.2695903
+UT WOS:000381029800101
+ER
+
+PT B
+AU Matta, M
+   Lunesu, I
+   Marchesi, M
+AF Matta, Martina
+   Lunesu, Ilaria
+   Marchesi, Michele
+BE Fred, A
+   Dietz, J
+   Aveiro, D
+   Liu, K
+   Filipe, J
+TI The Predictor Impact of Web Search Media on Bitcoin Trading Volumes
+SO 2015 7TH INTERNATIONAL JOINT CONFERENCE ON KNOWLEDGE DISCOVERY,
+   KNOWLEDGE ENGINEERING AND KNOWLEDGE MANAGEMENT (IC3K)
+CT 7th International Joint Conference on Knowledge Discovery, Knowledge
+   Engineering and Knowledge Management (IC3K)
+CY NOV 12-14, 2015
+CL Lisbon, PORTUGAL
+SP Inst Syst & Technologies Informat Control & Commun, Assoc Advancement Artificial Intelligence, ACM Special Interest Grp Management Informat Syst, ACM Special Interest Grp Artificial Intelligence, Assoc Italiana Intelligenza Artificiale, Portuguese Assoc Artificial Intelligence, European Res Consortium Informat Math, IEEE Comp Soc Tech Comm Business Informat & Syst
+AB In the last decade, Web 2.0 services have been widely used as communication media. Due to the huge amount of available information, searching has become dominant in the use of Internet. Millions of users daily interact with search engines, producing valuable sources of interesting data regarding several aspects of the world. Search queries prove to be a useful source of information in financial applications, where the frequency of searches of terms related to the digital currency can be a good measure of interest in it. Bitcoin, a decentralized electronic currency, represents a radical change in financial systems, attracting a large number of users and a lot of media attention. In this work we studied the existing relationship between Bitcoin's trading volumes and the queries volumes of Google search engine. We achieved significant cross correlation values, demonstrating search volumes power to anticipate trading volumes of Bitcoin currency.
+OI Marchesi, Michele/0000-0003-1540-8773
+BN 978-989-758-164-9
+PY 2015
+BP 620
+EP +
+UT WOS:000411797400075
+ER
+
+PT S
+AU McReynolds, E
+   Lerner, A
+   Scott, W
+   Roesner, F
+   Kohno, T
+AF McReynolds, Emily
+   Lerner, Adam
+   Scott, Will
+   Roesner, Franziska
+   Kohno, Tadayoshi
+BE Brenner, M
+   Christin, N
+   Johnson, B
+   Rohloff, K
+TI Cryptographic Currencies from a Tech-Policy Perspective: Policy Issues
+   and Technical Directions
+SO FINANCIAL CRYPTOGRAPHY AND DATA SECURITY (FC 2015)
+SE Lecture Notes in Computer Science
+CT 19th International Conference on Financial Cryptography and Data
+   Security (FC)
+CY JAN 26-30, 2015
+CL San Juan, PR
+AB We study legal and policy issues surrounding crypto currencies, such as Bitcoin, and how those issues interact with technical design options. With an interdisciplinary team, we consider in depth a variety of issues surrounding law, policy, and crypto currencies-such as the physical location where a crypto currency's value exists for jurisdictional and other purposes, the regulation of anonymous or pseudonymous currencies, and challenges as virtual currency protocols and laws evolve. We reflect on how different technical directions may interact with the relevant laws and policies, raising key issues for both policy experts and technologists.
+SN 0302-9743
+EI 1611-3349
+BN 978-3-662-48051-9; 978-3-662-48050-2
+PY 2015
+VL 8976
+BP 94
+EP 111
+DI 10.1007/978-3-662-48051-9_8
+UT WOS:000365880900008
+ER
+
+PT S
+AU Monaco, JV
+AF Monaco, John V.
+BE Kakadiaris, IA
+   Kumar, A
+   Scheirer, WJ
+TI Identifying Bitcoin users by transaction behavior
+SO BIOMETRIC AND SURVEILLANCE TECHNOLOGY FOR HUMAN AND ACTIVITY
+   IDENTIFICATION XII
+SE Proceedings of SPIE
+CT Conference on Biometric and Surveillance Technology for Human and
+   Activity Identification XII
+CY APR 22, 2015
+CL Baltimore, MD
+SP SPIE
+AB Digital currencies, such as Bitcoin, offer convenience and security to criminals operating in the black marketplace. Some Bitcoin marketplaces, such as Silk Road, even claim anonymity. 1 This claim contradicts the findings in this work, where long term transactional behavior is used to identify and verify account holders. Transaction features, such as timestamp, coin-flow, and connectivity, contribute to revealing the account-holder's identity. The time between successive transactions is the result of low-frequency effects, such as the desire purchase an item and daily schedule, as well as higher frequency effects, such as hardware and network latency. In addition to transaction time-intervals, dynamic network features of each transaction, such as coin flow and number of edge outputs and inputs, can also be used to identify account-holders. In this paper, we propose novel methodology for identifying and verifying Bitcoin users based on the observation of Bitcoin transactions over time. The behavior we attempt to quantify occurs in the social band of Newell's time scale and is low-frequency compared to other behavioral biometrics. A subset of Blockchain 230686 is analyzed, selecting users that initiated between 100 and 1000 unique transactions per month for at least 6 different months. This dataset shows evidence of being nonrandom and nonlinear, thus a dynamical systems approach is taken. Identification and verification accuracies are obtained using monthly Bitcoin samples. Outgoing transactions, as well as both outgoing and incoming transactions, are considered. Results show an inherent lack of anonymity by exploiting patterns in long-term transactional behavior.
+RI Monaco, John V./V-2601-2019
+SN 0277-786X
+EI 1996-756X
+BN 978-1-62841-573-5
+PY 2015
+VL 9457
+AR 945704
+DI 10.1117/12.2177039
+UT WOS:000359471600003
+ER
+
+PT J
+AU Mori, M
+AF Mori, Mototaka
+TI Future Structure of the Life-World As an inevitable consequence of the
+   "peer-to-peer"
+SO SOCIETAMUTAMENTOPOLITICA-RIVISTA ITALIANA DI SOCIOLOGIA
+AB This article intends to draw theoretically a future structure of the life-world. The state interventionism in the late capitalism has been often argued by the critical theoreticians like Jurgen Habermas since the last half of the twentieth century. It was particularly the main problem how possible the life-world was in such the technologically systematized society. However, the highly technological development of telecommunication has changed our everyday life very rapidly and totally. If we know such the rapid change of coevolution between human life and technology, we have to fundamentally reconsider on the theory of life-world. Therefore, in this article I will firstly focus on the classical theory of mundane social world which Alfred Schutz presented in the early 1930s. Of course, his project of socio-phenomenology has been one of the most brilliant und important works still now. However, his theory also will have to be renewed. If we know particularly the "peer-to-peer" constellation of the computer network by the distributed anonymous persons, the classical model of life-world must be versioned up to a next theoretical level. Secondly, considering on the virtual currency like the Bitcoin, this article will show you a hypothetical aspect of transformation of the life-world. The mechanism of trust, which has been often understood as one of the most important key concepts for the community or the society, may be replaced with the computer technology of cryptographic proof. Such a theoretical examination will finally lead to an important opened problem. We will have to inquire whether such the social order will be spontaneous, or whether such the ordering will have to be decided only by the speed of computer's central processing unit.
+SN 2038-3150
+PY 2015
+VL 6
+IS 12
+BP 81
+EP 94
+UT WOS:000370818000006
+ER
+
+PT B
+AU Muhammad, M
+AF Muhammad, Mursaleen
+GP Int Ctr Res & Dev
+TI Political Economy of the bitcoin in Asian Context: The Case of the
+   bitcoin Adoption Opportunities in Asia
+SO PROCEEDINGS OF THE THIRD INTERNATIONAL CONFERENCE ON ASIAN STUDIES 2015
+CT 3rd International Conference on Asian Studies (ICAS)
+CY JUN 20-21, 2015
+CL Niigata, JAPAN
+SP Int Ctr Res & Dev, Int Univ Japan
+AB Since its inception in 2009, the bitcoin surge, not only affected the global financial paradigm but also the social, economic and political regime worldwide. The Bitcoin is unique for being a stateless, non-regulated and a decentralized system of trust with anonymous currency, and urges the need of an ecosystem for it to be fully operative within a political, economic and technological environment. Asia for its development prospects and an emerging largest middleclass size, stands out as a lucrative market for the bitcoin startups. This research demonstrates applicability of Bitcoin Market Potential Index (BMPI) model in Asia context. The BMPI is helpful for investors, entrepreneurs, policy makers and development agencies to gauge bitcoin traction in a country under given circumstances and demands a continuous calibration in both the lateral and longitudinal dimensions. This research is meant to modify the index by incorporating more Asia relevant variables and furnishes a basic model for ranking of bitcoin infrastructure investment opportunities within Asia. The results of the study would be of equal interest (i) for investors and technology innovators who are interested in bitcoin startups in Asia and (ii) for lawmakers to measure the effectiveness of a given policy framework in subsequent region.
+BN 978-955-4543-27-0
+PY 2015
+BP 150
+EP 159
+UT WOS:000364991100039
+ER
+
+PT B
+AU Novak, M
+   Skalak, P
+AF Novak, Marcel
+   Skalak, Pavol
+BE Slavickova, P
+   Tomcik, J
+TI VIRTUAL CURRENCIES
+SO ZNALOSTI PRO TRZNI PRAXI 2015: ZENY - PODNIKATELKY V MINULOSTI A
+   SOUCASNOSTI
+CT International Scientific Conference on Knowledge for Market Use - Women
+   in Business in the Past and Present
+CY 2015
+CL Olomouc, CZECH REPUBLIC
+SP Palacky Univ, Dept Appl Econom
+AB Recently there are often comparisons of virtual and "real" money. Phenomenon of virtual currencies started to be used mainly in 2008 when Bitcoin (the main and the most important representative of virtual currency) was introduced but gained particular attention in 2013, when its value significantly increased. This sort of currency has no central issuing authority, and uses a public ledger to verify transactions while preserving users' anonymity. This paper analyzes the position of virtual currencies on financial markets, their positive and negative effects and focuses on Bitcoin as well as its alternatives. The rules for digital currencies are still shaping, which may result in significant fluctuations and significant losses of investors. Regulation of this market, however, will not be as easy as in the case of real currency because the basis of virtual currency is the internet and technological innovation.
+BN 978-80-87533-12-3
+PY 2015
+BP 880
+EP 887
+UT WOS:000380496800093
+ER
+
+PT J
+AU Cardenas, ZJP
+   Avellaneda, MAV
+   Bermudez, GMT
+AF Palacios Cardenas, Zully Julieth
+   Vela Avellaneda, Miguel Andres
+   Tarazona Bermudez, Giovanny Mauricio
+TI Bitcoin Transversal Alternative Monetary Exchange in the Digital Economy
+SO REDES DE INGENIERIA-ROMPIENDO LAS BARRERAS DEL CONOCIMIENTO
+AB Bitcoin is a decentralized system of digital money that is threatening the use of conventional money. This system has increased in popularity attracting media attention, community and control bodies, given their anonymity and structure where users are who generate the currency and verify that transactions are carried out by means of a cryptographic process. The article demonstrates the state of art of different forms of money used humans, since the emergence of barter from 9000 BC until the Bitcoin as a form of digital money in the last decade. For the development of research, it was searched with the words: money (money), history of money (history of money) and Bitcoin, mainly in databases of journals: IEEE, ScienceDirect, JSTOR-Journal and Storage Business Source Complete the District University Francisco Jose de Caldas and the National University of Colombia (SINAB) where 355 documents were found but 162 of them were selected because favored the review. Finally we conclude that Bitcoin is considered an experimental currency therefore lacks recognition within the global economy, but the future can be an alternative to expensive traditional systems, achieving increasing access network business
+RI Tarazona, Giovanny/Z-1095-2019
+OI Tarazona, Giovanny/0000-0001-5012-1466
+SN 2248-762X
+PD JAN-JUN
+PY 2015
+VL 6
+IS 1
+BP 106
+EP 128
+DI 10.14483/udistrital.jour.redes.2015.1.a08
+UT WOS:000215932900009
+ER
+
+PT S
+AU Paul, G
+AF Paul, Goutam
+BE Jajodia, S
+   Mazumdar, C
+TI Revisiting Democratic Mining in Bitcoins: Its Weakness and Possible
+   Remedies
+SO INFORMATION SYSTEMS SECURITY, (ICISS 2015)
+SE Lecture Notes in Computer Science
+CT 11th International Conference on Information Systems Security (ICISS)
+CY DEC 16-20, 2015
+CL Kolkata, INDIA
+AB In ICISS 2014, Paul et al. identified several problems in the existing Proof-of-Work protocol for Bitcoin mining and proposed an alternative solution to generate blocks containing valid transactions. In their scheme, each miner generates a hash value locally and then the miners engage in a distributed computation of the minimum of the hashes to select the winner. The authors claimed that this will eliminate the advantage of the miners with more computational resources and therefore would be more democratic. However, in this paper we show that the new scheme is also subject to the same weakness in the sense that a miner with more computational resources can do some local computation in order to increase its winning probability. We also discuss possible remedies to this problem and their implications.
+SN 0302-9743
+BN 978-3-319-26961-0; 978-3-319-26960-3
+PY 2015
+VL 9478
+BP 161
+EP 170
+DI 10.1007/978-3-319-26961-0_10
+UT WOS:000375224900010
+ER
+
+PT J
+AU Pavlovski, CJ
+AF Pavlovski, Christopher J.
+TI Reference Architecture for Cryptocurrency in Banking
+SO INFORMATION TECHNOLOGY IN INDUSTRY
+AB The Internet has now become an environment and source for innovation development that has impacted a wide range of industries. The platform has enabled entrepreneurs to create groundbreaking solutions that have had a disruptive and transformative effect on the lives of many people. While banking had dealt with several innovations such as internet payment providers, more recently a virtual alternative to cash has begun to emerge. Although the notion of true electronic cash has been considered for some time, the availability of a practical electronic currency has only recently gained actual adoption that is forcing many financial institutions to reconsider the potential long-term impact. We provide some insight into the latest trends in cryptocurrency and propose a reference architecture for adopting this form of financial asset in a central banking scenario; i.e. a Fiat based cryptocurrency. The presently used cryptocurrency are based on a peer to peer scheme and hence we outline an IT solution that will accommodate a centrally issued electronic currency.
+SN 2204-0595
+EI 2203-1731
+PY 2015
+VL 3
+IS 3
+BP 74
+EP 80
+UT WOS:000370639900002
+ER
+
+PT S
+AU Popa, M
+   Toma, C
+AF Popa, Marius
+   Toma, Cristian
+BE Boja, C
+   Doinea, M
+   Ciurea, C
+   Pocatilu, P
+   Batagan, L
+   Ion, A
+   Diaconita, V
+   Andreica, M
+   Delcea, C
+   Zamfiroiu, A
+   Zurini, M
+   Popescu, O
+TI EMV/BITCOIN PAYMENT TRANSACTIONS AND DYNAMIC DATA AUTHENTICATION WITH
+   SMART JAVA CARDS
+SO PROCEEDINGS OF THE 14TH INTERNATIONAL CONFERENCE ON INFORMATICS IN
+   ECONOMY (IE 2015): EDUCATION, RESEARCH & BUSINESS TECHNOLOGIES
+SE International Conference on Informatics in Economy
+CT 14th International Conference on Informatics in Economy (IE 2015)
+CY APR 30-MAY 03, 2015
+CL Bucharest, ROMANIA
+SP Bucharest Univ Econ Studies, Dept Econ Informat & Cybernet, INFOREC Assoc
+AB In the paper is presented EMV and Bitcoin payment transactions. For the EMV transaction is presented in details the contact-based and contactless transactions, as well as the authentication between the card and the terminal procedures. The Bitcoin section presents only the usage aspects of the payment transactions, but with details for future development in terms of implementation within open source code using Java Card technology.
+RI Popa, Marius/AAA-7434-2019
+OI Popa, Marius/0000-0001-8296-8389
+SN 2284-7472
+PY 2015
+BP 141
+EP 151
+UT WOS:000362796900024
+ER
+
+PT S
+AU Rajput, U
+   Abbas, F
+   Hussain, R
+   Eun, H
+   Oh, H
+AF Rajput, Ubaidullah
+   Abbas, Fizza
+   Hussain, Rasheed
+   Eun, Hasoo
+   Oh, Heekuck
+BE Rhee, KH
+   Yi, JH
+TI A Simple Yet Efficient Approach to Combat Transaction Malleability in
+   Bitcoin
+SO INFORMATION SECURITY APPLICATIONS, WISA 2014
+SE Lecture Notes in Computer Science
+CT 15th International Workshop on Information Security Applications (WISA)
+CY AUG 25-27, 2014
+CL Korea Inst Informat Secur & Cryptol, SOUTH KOREA
+SP Minist Sci, ICT & Future Planning, Korea Internet & Secur Agcy, Elect & Telecommunicat Res Inst, Natl Secur Res Inst, AhnLab, Korea Informat Certificate Author, REDBC, UNET Syst
+HO Korea Inst Informat Secur & Cryptol
+AB Bitcoin has emerged as a popular crypto currency. It was introduced in 2008 by Satoshi Nakamoto (A pseudonym). The reasons for its popularity include its decentralized nature, double spending prevention, smart strategy to counter inflation and providing a certain degree of anonymity. In February 2014, Bitcoin community was shocked to know that a Japan based company named Mt. Gox who, were dealing 70 percent of Bitcoin transactions that time, announced that they were hit by a bug in the Bitcoin protocol named as Transaction Malleability. The company lost hundreds of millions of dollars worth bitcoin. Soon after this, another company SilkRoad 2 also claimed to have affected by same issue. To date there is little research literature available on this recent issue and it is hard to grasp this problem. The purpose of writing this paper is twofold. We discuss Transaction Malleability in detail with respect to the structure of Bitcoin transactions in order to make reader properly understands what Transaction Malleability is and how it works. We also propose a mechanism to counter this issue.
+RI Hussain, Rasheed/Q-3409-2019
+OI Hussain, Rasheed/0000-0002-3771-7537
+SN 0302-9743
+EI 1611-3349
+BN 978-3-319-15087-1; 978-3-319-15086-4
+PY 2015
+VL 8909
+BP 27
+EP 37
+DI 10.1007/978-3-319-15087-1_3
+UT WOS:000357589600003
+ER
+
+PT B
+AU Rebai, S
+   Kacem, HH
+   Karaa, M
+   Pomares, SE
+   Kacem, AH
+AF Rebai, Sirinc
+   Kacem, Hatem Hadj
+   Karaa, Mohamed
+   Pomares, Saul E.
+   Kacem, Ahmed Hadj
+BE Ito, T
+   Kim, YG
+   Fukuta, N
+TI A Service-Oriented Architecture (SOA) Framework for Choreography
+   Verification
+SO 2015 IEEE/ACIS 14TH INTERNATIONAL CONFERENCE ON COMPUTER AND INFORMATION
+   SCIENCE (ICIS)
+CT 14th IEEE/ACIS International Conference on Computer and Information
+   Science (ICIS)
+CY JUN 28-JUL 01, 2015
+CL Las Vegas, NV
+SP IEEE, ACIS
+AB Service composition is fundamental in the SOA paradigm. It is oriented to build complex applications from smaller components. The design of composing service-based applications is mainly carried out throughout two composition techniques namely choreography and orchestration. Although these two composition models are different in nature, they are complementary. Choreography presents an abstract description of protocols. It offers a top view of the management rules which govern the interactions between the services involved in a decentralized application. On the other hand, orchestration provides details of the executable process at single peers which are necessary for the implementation of choreography. In this context, one open research problem, is the correct transformation of choreography specifications to orchestration specifications since orchestration provides more details to choreography specification. The choreography transformation has been the subject of several research works. Nevertheless, the existing works have considered that the choreography, on which their transformations are based, is correct by default. So, they have not sought to verify whether it is free of any error or not. Actually, due to the message passing nature of web services interaction, many subtle errors can occur. So, it is crucial to implement a checking process oriented to identify eventual incompatibilities that may arise. For this purpose, we present a formal verification approach based on the SPIN model-checker. The approach automatically transforms WS-CDL choreography specifications to Promela code for verification purposes. We verify non-functional properties that are expressed with linear temporal logic.
+BN 978-1-4799-8679-8
+PY 2015
+BP 642
+EP 646
+UT WOS:000380504300111
+ER
+
+PT B
+AU Rebai, S
+   Kacem, HH
+   Karaa, M
+   Pomares, SE
+   Kacem, AH
+AF Rebai, Sirine
+   Kacem, Hatem Hadj
+   Karaa, Mohamed
+   Pomares, Saul E.
+   Kacem, Ahmed Hadj
+BE Reddy, SM
+TI CDLVT: A Formal Verification Tool of Non-Functional Properties for
+   WS-CDL specification
+SO 2015 IEEE 24TH INTERNATIONAL CONFERENCE ON ENABLING TECHNOLOGIES -
+   INFRASTRUCTURE FOR COLLABORATIVE ENTERPRISES
+CT IEEE 24th International Conference on Enabling Technologies
+   Infrastructures for Collaborative Enterprises
+CY JUN 15-17, 2015
+CL Larnaca, CYPRUS
+SP IEEE, IEEE Comp Soc, CERC West Virginia Univ, Austrian Official Carrier, Cyprus in Your Heart
+AB Service-oriented architectures (SOA) are hugely adopted. Within the SOA, service composition is fundamental. The design of composing service-based applications is mainly carried out throughout two composition techniques namely choreography and orchestration. Although these two composition models are different in nature, they are complementary. Choreography presents an abstract description of protocols. It offers a top view of the management rules which govern the interactions between the services involved in a decentralized application. On the other hand, orchestration provides details of the executable process at single peers which are necessary for the implementation of choreography. In this context, one open research problem, is the correct transformation of choreography specifications to orchestration specifications since orchestration provides more details to choreography specification. The choreography transformation has been the subject of several research works. Nevertheless, the existing works have considered that the choreography, on which their transformations are based, is correct by default. So, it is crucial to implement a checking process oriented to identify eventual incompatibilities that may arise. For this purpose, we present a formal verification approach based on the SPIN model-checker. The approach automatically transforms WS-CDL choreography specifications to Promela code for verification purposes. We verify non-functional properties that are expressed with linear temporal logic.
+RI Hernandez, S.E. Pomares/H-2009-2012
+OI Hernandez, S.E. Pomares/0000-0002-0560-1687
+BN 978-1-4673-7692-1
+PY 2015
+BP 191
+EP 196
+DI 10.1109/WETICE.2015.14
+UT WOS:000380470500040
+ER
+
+PT B
+AU Reda, W
+   Suresh, L
+   Canini, M
+   Braithwaite, S
+AF Reda, Waleed
+   Suresh, Lalith
+   Canini, Marco
+   Braithwaite, Sean
+GP Assoc Comp Machinery
+TI BRB: BetteR Batch Scheduling to Reduce Tail Latencies in Cloud Data
+   Stores
+SO SIGCOMM'15: PROCEEDINGS OF THE 2015 ACM CONFERENCE ON SPECIAL INTEREST
+   GROUP ON DATA COMMUNICATION
+CT ACM Conference on Special Interest Group on Data Communication (SIGCOMM)
+CY AUG 17-21, 2015
+CL London, ENGLAND
+SP Assoc Comp Machinery, Assoc Comp Machinery Special Interest Grp Data Commun
+AB A common pattern in the architectures of modern interactive web-services is that of large request fan-outs, where even a single end-user request (task) arriving at an application server triggers tens to thousands of data accesses (sub-tasks) to different stateful backend servers. The overall response time of each task is bottlenecked by the completion time of the slowest sub-task, making such workloads highly sensitive to the tail of latency distribution of the backend tier. The large number of decentralized application servers and skewed workload patterns exacerbate the challenge in addressing this problem.
+   We address these challenges through BetteR Batch (BRB). By carefully scheduling requests in a decentralized and task aware manner, BRB enables low-latency distributed storage systems to deliver predictable performance in the presence of large request fan-outs. Our preliminary simulation results based on production workloads show that our proposed design is at the 99th percentile latency within 38% of an ideal system model while offering latency improvements over the state-of-the-art by a factor of 2.
+BN 978-1-4503-3542-3
+PY 2015
+BP 607
+EP 608
+DI 10.1145/27859562790023
+UT WOS:000485349400079
+ER
+
+PT S
+AU Schaub, A
+   Rossi, D
+AF Schaub, Alexander
+   Rossi, Dario
+GP IEEE
+TI Design and Analysis of an Improved BitMessage Anti-spam Mechanism
+SO 2015 IEEE INTERNATIONAL CONFERENCE ON PEER-TO-PEER COMPUTING (P2P)
+SE IEEE International Conference on Peer-to-Peer Computing
+CT IEEE International Conference on Peer to Peer Computing (P2P)
+CY SEP 23-24, 2015
+CL Cambridge, MA
+AB The BitMessage protocol offers privacy to its anonymous users. It is a completely decentralized messaging system, enabling users to exchange messages preventing accidental eavesdropping -a nice features in the Post-Snowden Internet Era. Not only messages are sent to every node on the network (making it impossible to understand the intended recipient), but their content is encrypted with the intended recipient public key (so that s/he only can decipher it). As these two properties combined might facilitate spamming, a proof-of-work (PoW) mechanism has been designed to mitigate this threat: only messages exhibiting properties of the PoW are forwarded on the network: since PoW is based on computationally heavy cryptographic functions, this slows down the rate at which spammers can introduce unsolicited messages in the network on the one hand, but also makes it harder to send legitimate messages for regular users on the other hand. In this paper, we (i) carry on an analysis of the current PoW mechanism, (ii) propose a very simple, yet very effective, generalization of the formula that decouples spammers vs legitimate users penalty showing that (iii) at the optimum, our proposal halves the harm spammers can do, avoiding by definition any impact for legitimate users.
+SN 2161-3567
+BN 978-1-5090-0300-6
+PY 2015
+UT WOS:000380395500010
+ER
+
+PT J
+AU Sobiecki, G
+AF Sobiecki, Grzegorz
+TI Regulating Cryptocurrencies in Poland and in the World as Exemplified by
+   Bitcoin - the Legal Status and Economic Assessment
+SO PROBLEMY ZARZADZANIA-MANAGEMENT ISSUES
+AB The author presents the current legal status of cryptocurrencies in the world and in Poland and a preliminary economic assessment of legal solutions in Poland. The author points out that the current importance of Bitcoin is scarce in Poland and small in the world, despite the increasingly elaborate Bitcoin ecosystem, and that the Polish law is prepared for the adoption of this new phenomenon. However, there are still a lot of unresolved specific issues, particularly concerning tax, that make it difficult for financial institutions and users to take a stance on Bitcoin, which generates the need for an official arrangement on Bitcoin. The author also proposes an approach to enable the development of private exchange, which however would require extensive action on a global scale.
+SN 1644-9584
+EI 2300-8792
+PY 2015
+VL 13
+IS 3
+BP 144
+EP 163
+DI 10.7172/1644-9584.54.10
+PN 1
+UT WOS:000378840200010
+ER
+
+PT S
+AU Sofronijevic, A
+   Jerkov, A
+   Stanisic, DK
+AF Sofronijevic, Adam
+   Jerkov, Aleksandar
+   Stanisic, Dejana Kavaja
+BE Kapidakis, S
+   Mazurek, C
+   Werla, M
+TI A Proposal for Autonomous Scientific Publishing Agent
+SO RESEARCH AND ADVANCED TECHNOLOGY FOR DIGITAL LIBRARIES
+SE Lecture Notes in Computer Science
+CT 19th International Conference on Theory and Practice of Digital
+   Libraries (TPDL)
+CY SEP 14-18, 2015
+CL Poznan, POLAND
+SP Poznan Supercomputing & Networking Ctr
+AB A proposal for implementation of autonomous agent model in scientific publishing is presented along with general description of the business framework for its operations and ideas for underlying technological solutions. Drawing on general ideas that have been put forth in other industries the proposal deals with specifics of contemporary scientific publishing and pinpoints the aspects that may be improved by application of autonomous agent model. A proposal for the new approach to scientific publishing is based on available technologies providing possibilities for new ownership model. Software that owns itself and is an independent economic entity that runs operations of a scientific publisher and hires necessary human workforce is technologically viable. Some aspects of bitcoin and other concepts important for building the system described in the proposal are explained. The proposal for this novel approach to scientific publishing also deals with various economic and ethical issues that may arise in its use.
+SN 0302-9743
+BN 978-3-319-24592-8; 978-3-319-24591-1
+PY 2015
+VL 9316
+BP 360
+EP 363
+DI 10.1007/978-3-319-24592-8_35
+UT WOS:000365853300035
+ER
+
+PT B
+AU Tewari, H
+   Nuallain, EO
+AF Tewari, Hitesh
+   Nuallain, Eamonn O.
+BA Zhu, H
+BF Zhu, H
+BE Miller, JS
+TI Netcoin: A Traceable P2P Electronic Cash System
+SO 2015 IEEE INTERNATIONAL CONFERENCE ON WEB SERVICES (ICWS)
+CT Web Services ICWS IEEE International Conference
+CY JUN 27-JUL 02, 2015
+CL New York, NY
+SP IEEE COMP SOC, SERV SOC, SERV COMP, BIG DATA, HP, IBM, ERICSSON, SAP, IBM RES, HUAWEI, OBJECT MANAGEMENT GRP, IEEE CLOUD COMP, BUSINESS PROCESS INTEGRAT & MANAGEMENT, PROFESS, INT J WEB SERV RES, COMP NOW, IEEE T SERV COMP, IEEE, CLOUD COMP
+AB This paper introduces a new P2P Electronic Cash system called Netcoin. The purpose of Netcoin is to facilitate inexpensive peer-to-peer monetary transactions on the Web. Its salient features are that it is a traceable system with an efficient mechanism for verifying transactions. Netcoins are reusable and can be easily passed from one user to another. The issuing of virtual currency and verification of transactions are performed by trusted mints, which act as the gateway between the fiat and virtual currency worlds. There is no need to maintain a public ledger, which would inhibit use on a global scale because of rapidly increasing memory and bandwidth requirements. The system is neither inflationary nor deflationary in nature and does not purport a new economic model. As a fiat-backed currency it should not suffer the volatility issues associated with Bitcoin. In this paper the two most prominent electronic payment systems of the last forty years, namely Ecash and Bitcoin, are examined. Netcoin is then introduced in detail and is designed to address the shortcomings of these payment systems.
+OI Tewari, Hitesh/0000-0003-1738-527X
+BN 978-1-4673-7272-5
+PY 2015
+BP 472
+EP 478
+DI 10.1109/ICWS.2015.69
+UT WOS:000380486400060
+ER
+
+PT B
+AU Vacura, M
+AF Vacura, Miroslav
+BE Petr, D
+   Gerhard, C
+   Vaclav, O
+TI THE HISTORY OF COMPUTER ETHICS AND ITS FUTURE CHALLENGES
+SO IDIMT-2015: INFORMATION TECHNOLOGY AND SOCIETY INTERACTION AND
+   INTERDEPENDENCE
+SE Schriftenreihe Informatik
+CT 23rd Annual Interdisciplinary Information Management Talks Conference
+   (IDIMT)
+CY SEP 09-11, 2015
+CL Podebrady, CZECH REPUBLIC
+SP Vysoka Skola Ekonomicka, Johannes Kepler Univ Linz, Ceska Sporitelna
+AB This paper presents an overview of the history of computer ethics, a discipline that has been in existence for more than a half century and which is now experiencing exponential growth, and a few predictions concerning the ethical issues of forthcoming computer technology. The paper begins with the ethical issues introduced in Cybernetics by N. Wiener, then describes the so called the First and the Second Generation of Computer Ethics, the "uniqueness debate" of the late 1980s, the Gorniak Hypothesis and the Johnson Hypothesis. The paper also provides a short description of the ethics of the process of the development of information systems and project management. A basic overview of Information Ethics theory, which purports to be the general foundation of computer ethics, is included. The last part of the paper lists a few new and potentially ethically questionable areas: Internet of things, new sensors and devices, virtual crypto-currencies, linking data, and advanced artificial intelligence.
+RI Vacura, Miroslav/F-1610-2015
+OI Vacura, Miroslav/0000-0002-7989-4427
+BN 978-3-99033-395-2
+PY 2015
+VL 44
+BP 325
+EP 333
+UT WOS:000367513000039
+ER
+
+PT S
+AU Wang, WH
+   Li, P
+AF Wang, Weihong
+   Li, Peng
+BE Liu, J
+   Wang, Y
+   Xu, H
+TI IC card-based bitcoin payment design and implement
+SO PROCEEDINGS OF THE 2015 INTERNATIONAL CONFERENCE ON INTELLIGENT SYSTEMS
+   RESEARCH AND MECHATRONICS ENGINEERING
+SE Advances in Intelligent Systems Research
+CT International Conference on Intelligent Systems Research and
+   Mechatronics Engineering (ISRME)
+CY APR 11-13, 2015
+CL Zhengzhou, PEOPLES R CHINA
+AB Bitcoin is a virtual currency based on the P2P network. Because of decentralization, anonymity, stability and other advantages, Bitcoin develops rapidly. In order to cope with increasingly wide application fields of bitcoin, this research designs bitcoin's payment based on the IC card, which improves its safety and convenience. According to Bitcoin's unique utilization, we've designed and achieved the documental structure of Bitcoin IC card and mutual authentication between PSAM card and IC card. With the combination of IC card private key and user's private key leading to account's private key, it will be safer to private key. Besides using merge-avoidance algorithm when trading improves the security of the account.
+SN 1951-6851
+BN 978-94-62520-59-2
+PY 2015
+VL 121
+BP 847
+EP 850
+UT WOS:000359441300174
+ER
+
+PT S
+AU Wu, Y
+   Ying, L
+AF Wu, Yu
+   Ying, Lei
+GP IEEE
+TI A Cloudlet-based Multi-lateral Resource Exchange Framework for Mobile
+   Users
+SO 2015 IEEE CONFERENCE ON COMPUTER COMMUNICATIONS (INFOCOM)
+SE IEEE INFOCOM
+CT 34th IEEE Conference on Computer Communications (INFOCOM)
+CY APR 26-MAY 01, 2015
+CL Hong Kong, PEOPLES R CHINA
+SP IEEE
+AB The hardware improvement of mobile devices and pervasiveness of wireless technology expedite the convergence with the fast growing cloud computing trend, where the abundant resources on the cloud meet well with the deficiency of hand-held devices. Cloudlet, as a newly emerging paradigm "bringing the cloud closer" to the end users, features a more scalable deployment fashion where idle personal servers can be efficiently harnessed. Despite an envisioned monetary saving, such a paradigm confines itself to limited application scenarios, which fails to reach a wide realm of roaming users outside the distance coverage of the access points. In this paper, we propose a cloudlet-based multi-lateral resource exchange framework for mobile users, relying on no central entities. Inspired by the success of BitCoin, we design a novel virtual currency tailored for our framework. To realize an efficient resource exchange market, we also introduce flexible pricing strategies adopted by the individual users whom we assume are rational price-takers, with solid theoretical analysis on the equilibrium state and the stability. After elaborating the key functional modules, we introduce a prototype design enabling seamless trading among mobile users on Internet bandwidth as a proof-of-concept, with least user intervention. Both simulations and experiments are conducted to verify the practicality and efficiency of our system.
+SN 0743-166X
+BN 978-1-4799-8381-0
+PY 2015
+UT WOS:000370720100104
+ER
+
+PT J
+AU Yuksel, AEB
+AF Yuksel, Armagan Ebru Bozkurt
+TI LOOKING AT ELECTRONIC MONEY, VIRTUAL MONEY, BITCOIN and LINDEN DOLLARS
+   FROM A LEGAL PERSPECTIVE
+SO JOURNAL OF ISTANBUL UNIVERSITY LAW FACULTY-HUKUK FAKULTESI MECMUASI
+AB Internet affects all areas of life. The number of persons who connects to the Internet increases day by day. It has been benefited from the Internet in numerous fields and in commerce as well. The commerce which takes place on the Internet without any burdens of working hours or workplaces attracts the business concerns increasingly. The rise of electronic commerce and the developments in technology have started the use of new payment systems. This article attempts to assess the electronic payment methods generally and then analyse the best known virtual currencies Bitcoin and Linden Dollars which are also types of electronic money. In this work the advantages and the disadvantages of electronic money and the suggestions about the subject has been evaluated by looking at the practice in the world and in Turkey.
+SN 1303-4375
+PY 2015
+VL 73
+IS 2
+BP 173
+EP 220
+UT WOS:000409909500007
+ER
+
+PT S
+AU Zhu, G
+   Wei, XJ
+AF Zhu, G.
+   Wei, X. J.
+BE Chan, K
+   Yeh, J
+TI The Distinction and Controversy of Digital Currency in China
+SO PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON COMPUTER INFORMATION
+   SYSTEMS AND INDUSTRIAL APPLICATIONS (CISIA 2015)
+SE ACSR-Advances in Comptuer Science Research
+CT International Conference on Computer Information Systems and Industrial
+   Applications (CISIA)
+CY JUN 28-29, 2015
+CL Bangkok, THAILAND
+AB This paper pointed out the main difference between digital currency and the other two currencies, by clarifying and comparing the concepts of electronic money, virtual currency and digital currency. Starting from the basic characteristics of digital currency, two controversial issues were reviewed and discussed, i.e. whether digital currency is trustworthy and will it become a real currency. Analysis indicates that the prospect of digital currency as a disruptive innovation should not be underestimated, but its healthy development cannot be guaranteed without recognition of the government and protection of laws, as well as compromising and integrating innovation with traditional financial system. Finally, the paper pointed out the current research directions of digital currency.
+SN 2352-538X
+BN 978-94-62520-72-1
+PY 2015
+VL 18
+BP 678
+EP 681
+UT WOS:000359866200185
+ER
+
+PT J
+AU Harper, J
+AF Harper, Jim
+TI BITCOIN AND STABILITY
+SO FOREIGN AFFAIRS
+SN 0015-7120
+PD NOV-DEC
+PY 2014
+VL 93
+IS 6
+BP 212
+EP 212
+UT WOS:000343355100091
+ER
+
+PT J
+AU Simonite, T
+AF Simonite, Tom
+TI Meet the Man Who Really Built Bitcoin
+SO TECHNOLOGY REVIEW
+SN 1099-274X
+PD NOV-DEC
+PY 2014
+VL 117
+IS 6
+BP 21
+EP 23
+UT WOS:000209605300015
+ER
+
+PT J
+AU Jehan, T
+AF Jehan, T.
+TI Bitcoin, Bitcoin, Going So Fast ...
+SO NATION
+SN 0027-8378
+PD JUN 23
+PY 2014
+VL 298
+IS 26
+BP 2
+EP 2
+UT WOS:000337263000001
+ER
+
+PT J
+AU Rutkin, A
+AF Rutkin, Aviva
+TI Bitcoin puzzles tackle real-world problems
+SO NEW SCIENTIST
+SN 0262-4079
+PD JUN 14
+PY 2014
+VL 222
+IS 2973
+BP 24
+EP 24
+UT WOS:000337337600016
+ER
+
+PT J
+AU Hodson, H
+AF Hodson, Hal
+TI Say cheers to music with a bitcoin tip
+SO NEW SCIENTIST
+SN 0262-4079
+PD MAY 24
+PY 2014
+VL 222
+IS 2970
+BP 24
+EP 24
+DI 10.1016/S0262-4079(14)61011-3
+UT WOS:000336475600014
+ER
+
+PT J
+AU Kondor, D
+   Posfai, M
+   Csabai, I
+   Vattay, G
+AF Kondor, D.
+   Posfai, M.
+   Csabai, I
+   Vattay, G.
+TI Do the Rich Get Richer? An Empirical Analysis of the Bitcoin Transaction
+   Network (vol 9, e86197, 2014)
+SO PLOS ONE
+RI Csabai, Istvan/F-6045-2011
+OI Csabai, Istvan/0000-0001-9232-9898; Vattay, Gabor/0000-0002-0919-9429
+SN 1932-6203
+PD MAY 2
+PY 2014
+VL 9
+IS 5
+AR e97205
+DI 10.1371/journal.pone.0097205
+UT WOS:000336655700130
+ER
+
+PT J
+AU Aluja, A
+   Blanch, A
+   Blanco, E
+   Marti-Guiu, M
+   Balada, F
+AF Aluja, Anton
+   Blanch, Angel
+   Blanco, Eduardo
+   Marti-Guiu, Maite
+   Balada, Ferran
+TI The Dimensional Assessment of Personality Psychopathology Basic
+   Questionnaire: Shortened Versions Item Analysis
+SO SPANISH JOURNAL OF PSYCHOLOGY
+AB This study has been designed to evaluate and replicate the psychometric properties of the Dimensional Assessment of Personality Psychopathology-Basic Questionnaire (DAPP-BQ) and the DAPP-BQ short form (DAPP-SF) in a large Spanish general population sample. Additionally, we have generated a reduced form called DAPP-90, using a strategy based on a structural equation modeling (SEM) methodology in two independent samples, a calibration and a validation sample. The DAPP-90 scales obtained a more satisfactory fit on SEM adjustment values (average: TLI > .97 and RMSEA < .04) respect to full DAPP-BQ and the 136-item version. According to the factorial congruency coefficients, the DAPP-90 obtains a similar structure to the DAPP-BQ and the DAPP-SF. The DAPP-90 internal consistency is acceptable, with a Cronbach's alpha mean of .75. We did not find any differences in the pattern of relations between the two DAPP-BQ shortened versions and the SCL-90-R factors. The new 90-items version is especially useful when it is difficult to use the long version for diverse reasons, such as the assessment of patients in hospital consultation or in brief psychological assessments.
+RI Balada, Ferran/C-5570-2008; Aluja, Anton/A-7588-2008; Calvo, Eduardo
+   Blanco/H-5805-2013; Blanch, Angel/C-5547-2008
+OI Balada, Ferran/0000-0001-7406-0135; Aluja, Anton/0000-0002-7865-0287;
+   Calvo, Eduardo Blanco/0000-0003-0357-1151; Blanch,
+   Angel/0000-0002-6578-944X
+SN 1138-7416
+EI 1988-2904
+PY 2014
+VL 17
+AR e102
+DI 10.1017/sjp.2014.109
+UT WOS:000361588100047
+PM 26055856
+ER
+
+PT S
+AU Barkatullah, J
+   Hanke, T
+   Iyengar, R
+   Lewelling, R
+   O'Connor, J
+AF Barkatullah, Javed
+   Hanke, Timo
+   Iyengar, Ravi
+   Lewelling, Ricky
+   O'Connor, Jim
+GP IEEE
+TI GOLDSTRIKE (TM) 1: COINTERRA'S FIRST GENERATION CRYPTO-CURRENCY
+   PROCESSOR FOR BITCOIN MINING MACHINES
+SO 2014 IEEE HOT CHIPS 26 SYMPOSIUM (HCS)
+SE IEEE Hot Chips Symposium
+CT 26th IEEE Hot Chips Symposium (HCS)
+CY AUG 20-22, 2017
+CL Cupertino, CA
+SP IEEE
+SN 2573-203X
+BN 978-1-4673-8883-2
+PY 2014
+UT WOS:000412653700029
+ER
+
+PT S
+AU Dmitrienko, A
+   Noack, D
+   Sadeghi, AR
+   Yung, M
+AF Dmitrienko, Alexandra
+   Noack, David
+   Sadeghi, Ahmad-Reza
+   Yung, Moti
+BE Bohme, R
+   Brenner, M
+   Moore, T
+   Smith, M
+TI On Offline Payments with Bitcoin
+SO FINANCIAL CRYPTOGRAPHY AND DATA SECURITY: FC 2014 WORKSHOPS, BITCOIN AND
+   WAHC 2014
+SE Lecture Notes in Computer Science
+CT 18th International Conference on Financial Cryptography and Data
+   Security (FC)
+CY MAR 07, 2014
+CL Christ Church, BARBADOS
+SP Bitcoin Fdn
+SN 0302-9743
+BN 978-3-662-44774-1; 978-3-662-44773-4
+PY 2014
+VL 8438
+BP 159
+EP +
+DI 10.1007/978-3-662-44774-1_11
+UT WOS:000345581900011
+ER
+
+PT S
+AU Dua, A
+   Bui, T
+   Le, T
+   Huynh, N
+   Feng, WC
+AF Dua, Akshay
+   Bui, Thai
+   Le, Tien
+   Nhan Huynh
+   Feng, Wu-chang
+GP IEEE
+TI MetaCAPTCHA: A Metamorphic Throttling Service for the Web
+SO 2014 IEEE 22ND INTERNATIONAL CONFERENCE ON NETWORK PROTOCOLS (ICNP)
+SE IEEE International Conference on Network Protocols Proceedings
+CT 22nd IEEE International Conference on Network Protocols (ICNP)
+CY OCT 21-24, 2014
+CL Raleigh, NC
+SP IEEE, IEEE Comp Soc, Univ N Carolina, N Carolina State Univ
+AB Spam is a problem that refuses to go away. An immense amount of time and money is currently devoted to hiding spam, but not enough is devoted to effectively preventing it. CAPTCHAs are a prevalent spam prevention mechanism, but are getting harder for humans to solve and easier for programs to "break". CAPTCHAs also cannot prevent spam from hijacked accounts since they are mostly used during account creation. Proof-of-work approaches are gaining popularity, but current implementations are not effective enough and cannot be used by generic web applications. We present MetaCAPTCHA, an application-agnostic spam prevention service for web applications. MetaCAPTCHA dynamically issues CAPTCHAs and proof-of-work "puzzles" while ensuring that more malicious users solve "harder" puzzles. In order to support its operation, MetaCAPTCHA implements a novel secure protocol - for authenticating web sites and validating proof-of-work solutions - that allows for seamless integration across a variety of web applications.
+SN 1092-1648
+BN 978-1-4799-6204-4
+PY 2014
+BP 665
+EP 670
+DI 10.1109/ICNP.2014.106
+UT WOS:000392944400083
+ER
+
+PT B
+AU Kapsammer, E
+   Proll, B
+   Retschitzegger, W
+   Schwinger, W
+   Weissenbek, M
+   Schonbock, J
+AF Kapsammer, Elisabeth
+   Proell, Birgit
+   Retschitzegger, Werner
+   Schwinger, Wieland
+   Weissenbek, Markus
+   Schoenboeck, Johannes
+BE IndrawanSantiago, M
+   Pardede, E
+   Salvadori, IL
+   Steinbauer, M
+   Khalil, I
+   AnderstKotsis, G
+TI The Blockchain Muddle* A Bird's-Eye View on Blockchain Surveys
+SO IIWAS2018: THE 20TH INTERNATIONAL CONFERENCE ON INFORMATION INTEGRATION
+   AND WEB-BASED APPLICATIONS & SERVICES
+CT 20th International Conference on Information Integration and Web-Based
+   Applications and Services (iiWAS)
+CY NOV 19-21, 2018
+CL Yogyakarta, INDONESIA
+SP Assoc Comp Machinery
+AB Since the emergence of Bitcoin, blockchains (BCs) have been applied not only in the finance sector, but also in various other domains like health care, education or Industry 4.0 resulting in numerous different BC platforms and substantial research work. This plenty of efforts yielded to several valuable scientific surveys classifying and evaluating existing BC platforms. Although each of them puts forward a somewhat consolidated view on the field, it is still challenging to get rid of the "blockchain muddle" preventing even a common perception of the core functionality of BCs. Instead of providing yet another BC overview we conduct a meta survey of existing BC studies and report on lessons learned in this paper, being the basis for our vision towards a UML-based reference model considering both, structural and behavioral aspects of BCs and thereby identifying the nucleus of BCs.
+BN 978-1-4503-6479-9
+PY 2014
+BP 370
+EP 374
+DI 10.1145/3282373.3282396
+UT WOS:000469241700055
+ER
+
+PT B
+AU King, B
+AF King, Brett
+BA King, B
+BF King, B
+TI Is Bitcoin the End of Cash?
+SO BREAKING BANKS: THE INNOVATORS, ROGUES, AND STRATEGISTS REBOOTING
+   BANKING
+BN 978-1-118-95824-7; 978-1-118-90014-7
+PY 2014
+BP 115
+EP 136
+D2 10.1002/9781118958247
+UT WOS:000354800900007
+ER
+
+PT B
+AU Kropjok, V
+AF Kropjok, Vit
+BE Piechowiczova, L
+   Madlenakova, L
+TI Legal and economic nature of a bitcoin currency
+SO AUTONOMIE JEDNOTLIVCE
+CT International Multidisciplinary Conference on Autonomy of an Individual
+CY SEP 19-21, 2014
+CL Hruba Voda, CZECH REPUBLIC
+SP Palacky Univ Olomouc, Fac Law
+AB Lately the phenomenon of virtual currencies has become the main topic of many conversations, mainly Bitcoin. Though its use is spreading, its character, mainly economic and legal, remains blurred. The aim of this article is to briefly describe and judge the basix economic and legal features of this phenomenon and at the same time to indicate possible positives and negatives of its use.
+BN 978-80-7502-059-8
+PY 2014
+BP 219
+EP 226
+UT WOS:000397665100030
+ER
+
+PT S
+AU Li, J
+   Liu, Y
+AF Li, Jian
+   Liu, Yue
+BE Zhang, H
+   Han, M
+   Zhao, XJ
+TI Data Processing in Regional Energy, Economy and Environment System
+   Development Theories Research
+SO ADVANCED DEVELOPMENT OF ENGINEERING SCIENCE IV
+SE Advanced Materials Research
+CT 4th International Conference on Automation, Communication,
+   Architectonics and Materials (ACAM)
+CY SEP 27-28, 2014
+CL Wuhan, PEOPLES R CHINA
+SP ISER Assoc, Int Sci & Educ Researcher Assoc, Beijing Gireida Educ Res Ctr
+AB Along with the social progress and rapid economic development, many countries appeared the contradiction between supply and demand of energy in different degree and the environment is destroyed, so it's difficult to support the economy to continue to grow. In this context, how to coordinate the relations among the sources of energy, economy and environment system(3 e) is the prime issue must be solved in the road of human sustainable development. This paper established economic growth Translog Production Function with considering the energy consumption and presented the calculation method of contribution rate to economic growth. At the same time with the data processing and analysis on energy, economy, and environment system theory, it provided government and enterprises with scientific proof of work and production combining with panel data.
+SN 1022-6680
+BN 978-3-03835-289-1
+PY 2014
+VL 1046
+BP 550
+EP 553
+DI 10.4028/www.scientific.net/AMR.1046.550
+UT WOS:000348030200118
+ER
+
+PT B
+AU Miglietti, C
+AF Miglietti, Cynthia
+BE Stavarek, D
+   Vodova, P
+TI Bitcoin: Speculative Bubble or Future World Currency?
+SO PROCEEDINGS OF THE 14TH INTERNATIONAL CONFERENCE ON FINANCE AND BANKING
+CT 14th International Conference on Finance and Banking
+CY OCT 16-17, 2013
+CL Ostrava, CZECH REPUBLIC
+SP Silesian Univ Opava, Sch Business Adm
+AB Bitcoin has enjoyed wider adoption than any previous digital currency and is now surging in value. The price of bitcoin jumped from $ 140 on October 1, 2013 to $ 1,000 on November 27, 2013. Is this a speculative bubble that may soon crash? Could this virtual currency become the excepted medium of exchange for the world in the future? The Federal Reserve of the United States as well as the Central European Bank have been studying the currency and discussing its regulation. Currently, the currency is not regulated by any public authority. There are a number of issues that must be addressed about the growing use of digital currency including its implications for tax collection, central banking, corruption, theft, and illegal drug sales. If bitcoin were to become a standard currency, it could dramatically transform the role of the central banks around the world as well as replace existing currencies - particularly cash.
+BN 978-80-7248-939-8
+PY 2014
+BP 277
+EP 281
+UT WOS:000345575000032
+ER
+
+PT B
+AU Mulcahy, K
+AF Mulcahy, Kate
+BE Griffin, E
+   Alsop, M
+   Saville, M
+   Smith, G
+TI Working with External Consultants: Smart Contracting and Consulting
+SO FIELD GUIDE FOR ORGANISATION DEVELOPMENT: TAKING THEORY INTO PRACTICE
+BN 978-1-315-56469-2; 978-1-4094-4049-9
+PY 2014
+BP 227
+EP 250
+UT WOS:000412778100013
+ER
+
+PT B
+AU Mullan, PC
+AF Mullan, P. Carl
+BA Mullan, PC
+BF Mullan, PC
+TI What Is Digital Currency?
+SO DIGITAL CURRENCY CHALLENGE: SHAPING ONLINE PAYMENT SYSTEMS THROUGH US
+   FINANCIAL REGULATIONS
+SE Palgrave Pivot
+AB Privately issued digital currency is value that circulates over the Internet. Digital currency provides an instantly clearing accessible method of transferring funds and conducting business on a global scale. It is a code or serial number representing value that is circulated online. Most often this represents a physical value stored offline. Other decentralized virtual currency systems such as Bitcoin circulate units with a value determined by the liquidity of market supply and demand. As smaller digital currency systems become more commercially accepted by retail users and merchants, these systems also tend to evolve into highly regulated enterprises. The most important part of any digital currency system is the point where digital units are swapped for national currency providing liquidity for consumers and merchants.
+BN 978-1-137-38255-9; 978-1-137-38254-2
+PY 2014
+BP 4
+EP 12
+DI 10.1057/9781137382559.0003
+D2 10.1057/9781137382559
+UT WOS:000333929100002
+ER
+
+PT B
+AU Mullan, PC
+AF Mullan, P. Carl
+BA Mullan, PC
+BF Mullan, PC
+TI Regulatory History
+SO DIGITAL CURRENCY CHALLENGE: SHAPING ONLINE PAYMENT SYSTEMS THROUGH US
+   FINANCIAL REGULATIONS
+SE Palgrave Pivot
+AB Regulatory action against digital currency systems started quietly in Australia in 2004. In 2005, e-gold was raided but no charges were filed. In 2007, GoldAge, one of the original exchange agents, was closed and prosecuted. Also in 2007, the e-gold operators were indicted on multiple felony charges and the assets of about a dozen exchange agents in America were seized. Similar actions to separate digital currency businesses from US banking faculties can be seen today in the operation of US Bitcoin businesses.
+BN 978-1-137-38255-9; 978-1-137-38254-2
+PY 2014
+BP 36
+EP 48
+DI 10.1057/9781137382559.0008
+D2 10.1057/9781137382559
+UT WOS:000333929100007
+ER
+
+PT B
+AU Mullan, PC
+AF Mullan, P. Carl
+BA Mullan, PC
+BF Mullan, PC
+TI Follow the Money
+SO DIGITAL CURRENCY CHALLENGE: SHAPING ONLINE PAYMENT SYSTEMS THROUGH US
+   FINANCIAL REGULATIONS
+SE Palgrave Pivot
+AB The US Treasury Department, through the Financial Crimes Enforcement Network, implements, administers, and enforces compliance with the Bank Secrecy Act and associated regulations. FinCEN creates the rules that monitor and regulate all US digital currency systems and related businesses. As defined by US law, almost all digital currency businesses are considered to be financial institutions. The Money Service Business Rule (MSB) places all digital currency systems in the category of Money Transmitter Service, and forces all exchange agents, third-party processing agents, and most Bitcoin miners into the category of Money Transmitter.
+BN 978-1-137-38255-9; 978-1-137-38254-2
+PY 2014
+BP 49
+EP 55
+DI 10.1057/9781137382559.0009
+D2 10.1057/9781137382559
+UT WOS:000333929100008
+ER
+
+PT B
+AU Mullan, PC
+AF Mullan, P. Carl
+BA Mullan, PC
+BF Mullan, PC
+TI Prepaid Access
+SO DIGITAL CURRENCY CHALLENGE: SHAPING ONLINE PAYMENT SYSTEMS THROUGH US
+   FINANCIAL REGULATIONS
+SE Palgrave Pivot
+AB On July 29, 2011, FinCEN published a final rule on definitions and other regulations relating to prepaid access better known as the "prepaid access rule." All existing digital currency companies and agents engaged in US business were now considered to be operating under the "prepaid access" rule with very few exceptions. Several large digital currency companies withdrew from the US market. Bitcoin was proven to not be subject to the new Prepaid Access Rule.
+BN 978-1-137-38255-9; 978-1-137-38254-2
+PY 2014
+BP 61
+EP 67
+DI 10.1057/9781137382559.0011
+D2 10.1057/9781137382559
+UT WOS:000333929100010
+ER
+
+PT B
+AU Mullan, PC
+AF Mullan, P. Carl
+BA Mullan, PC
+BF Mullan, PC
+TI Loom
+SO DIGITAL CURRENCY CHALLENGE: SHAPING ONLINE PAYMENT SYSTEMS THROUGH US
+   FINANCIAL REGULATIONS
+SE Palgrave Pivot
+AB The Loom software is an example of powerful value transfer Open Source software that is available for anyone to download and use. It emerged shortly after the e-gold prosecution as a knee-jerk reaction to law enforcement's large asset seizures. The system creates a private digital currency unlike Bitcoin or e-gold. The lack of identifying information available on Loom users or transactions makes this system one of the most private in the world. Regulatory agencies do not yet have the tools to properly monitor activity in products such as Loom software. When operated in a decentralized model the Loom system is one of the most private electronic value transfer systems ever created.
+BN 978-1-137-38255-9; 978-1-137-38254-2
+PY 2014
+BP 79
+EP 83
+DI 10.1057/9781137382559.0013
+D2 10.1057/9781137382559
+UT WOS:000333929100012
+ER
+
+PT B
+AU Mullan, PC
+AF Mullan, P. Carl
+BA Mullan, PC
+BF Mullan, PC
+TI Bitcoin Decentralized Virtual Currency
+SO DIGITAL CURRENCY CHALLENGE: SHAPING ONLINE PAYMENT SYSTEMS THROUGH US
+   FINANCIAL REGULATIONS
+SE Palgrave Pivot
+AB Bitcoin was created as an electronic version of cash. The decentralized currency is revolutionary for its use of a distributed ledger. Rather than a central ledger held by a third party requiring trust of that third party, Bitcoin distributes that ledger to all users and removes the need for a third-party intermediary. Bitcoin is becoming "money without banks" for many users. It is difficult, but not impossible, for regulatory agencies to monitor Bitcoin activity.
+BN 978-1-137-38255-9; 978-1-137-38254-2
+PY 2014
+BP 84
+EP 92
+DI 10.1057/9781137382559.0014
+D2 10.1057/9781137382559
+UT WOS:000333929100013
+ER
+
+PT B
+AU Mullan, PC
+AF Mullan, P. Carl
+BA Mullan, PC
+BF Mullan, PC
+TI Early Bitcoin
+SO DIGITAL CURRENCY CHALLENGE: SHAPING ONLINE PAYMENT SYSTEMS THROUGH US
+   FINANCIAL REGULATIONS
+SE Palgrave Pivot
+AB The reasons for creating Bitcoin are only speculation because the actual person or persons which created the concept is unknown. Speculation surrounds the fact that Bitcoin emerged during the 2008 financial crisis and the original block of Bitcoin contained an embedded text referencing bank bailouts. No single person, company, or group can speak on behalf of the entire Bitcoin network.
+BN 978-1-137-38255-9; 978-1-137-38254-2
+PY 2014
+BP 93
+EP 96
+DI 10.1057/9781137382559.0015
+D2 10.1057/9781137382559
+UT WOS:000333929100014
+ER
+
+PT B
+AU Mullan, PC
+AF Mullan, P. Carl
+BA Mullan, PC
+BF Mullan, PC
+TI Bitcoin Mining
+SO DIGITAL CURRENCY CHALLENGE: SHAPING ONLINE PAYMENT SYSTEMS THROUGH US
+   FINANCIAL REGULATIONS
+SE Palgrave Pivot
+AB Bitcoin mining is the process by which new Bitcoins enter the world. This is an online mathematical process which is generally operated as a business. The process of mining Bitcoin furnishes the computing power which operates the network. Mining builds the block chain which is a continuous public record of all transactions occurring on the network from day one. Mining generally occurs in pools of more than one user. FinCEN issued guidance on March 18, 2013, for the application of regulations pertaining to persons administering, exchanging, or using virtual currencies. This guidance seemed to state that miners are considered money transmitters with no activity threshold.
+BN 978-1-137-38255-9; 978-1-137-38254-2
+PY 2014
+BP 97
+EP 101
+DI 10.1057/9781137382559.0016
+D2 10.1057/9781137382559
+UT WOS:000333929100015
+ER
+
+PT B
+AU Mullan, PC
+AF Mullan, P. Carl
+BA Mullan, PC
+BF Mullan, PC
+TI Bitcoin Differences
+SO DIGITAL CURRENCY CHALLENGE: SHAPING ONLINE PAYMENT SYSTEMS THROUGH US
+   FINANCIAL REGULATIONS
+SE Palgrave Pivot
+AB Existing centralized digital currency systems derive value from assets backing the digital units. Bitcoins have no assets backing the units. They are valued from being traded in public online market. In previous digital currency systems units were non-negotiable. Bitcoin units transfer value with each transaction and hold more obvious cash-like features than previous digital currency products. Bitcoin transactions are pushed from a user account, opposite of bank checks and credit cards that are pulled out by someone other than the account owner.
+BN 978-1-137-38255-9; 978-1-137-38254-2
+PY 2014
+BP 102
+EP 110
+DI 10.1057/9781137382559.0017
+D2 10.1057/9781137382559
+UT WOS:000333929100016
+ER
+
+PT B
+AU Mullan, PC
+AF Mullan, P. Carl
+BA Mullan, PC
+BF Mullan, PC
+TI Benefits and Advantages
+SO DIGITAL CURRENCY CHALLENGE: SHAPING ONLINE PAYMENT SYSTEMS THROUGH US
+   FINANCIAL REGULATIONS
+SE Palgrave Pivot
+AB Private digital currency, which circulates outside of conventional bank systems, has the benefit of lower transaction costs and fees. The ability to send unrestricted payments and capital flows anywhere in the world at any time with no restrictions should always be the number one reason for using Bitcoin. Bitcoin peer-to-peer transfer process is absent of any middleman and third-party risk. There is no single point of compromise in the hardware or software that could cause the system to be vulnerable to failure, seizure, or closure. No personal information is exchanged and there is no ID theft or card fraud possible in the Bitcoin network. No requirement for PCI compliance.
+BN 978-1-137-38255-9; 978-1-137-38254-2
+PY 2014
+BP 111
+EP 114
+DI 10.1057/9781137382559.0018
+D2 10.1057/9781137382559
+UT WOS:000333929100017
+ER
+
+PT B
+AU Mullan, PC
+AF Mullan, P. Carl
+BA Mullan, PC
+BF Mullan, PC
+TI Disadvantages and Barriers
+SO DIGITAL CURRENCY CHALLENGE: SHAPING ONLINE PAYMENT SYSTEMS THROUGH US
+   FINANCIAL REGULATIONS
+SE Palgrave Pivot
+AB Bitcoins can be lost, misplaced, or stolen. Once the digital file is gone the value of the Bitcoins cannot be recovered. Bitcoin purchases are final and irreversible which is often negative for consumers. The network contains no anti-money laundering software and does not permit monitoring of customer accounts in order to identify suspicious cash flows and patterns which may indicate criminal activity. A large barrier to entry in the American consumer marketplace is trust. For Bitcoin to succeed on a large commercial scale in the United States the transaction and settlement experience for American Bitcoin merchants needs to be much more streamlined and certain.
+BN 978-1-137-38255-9; 978-1-137-38254-2
+PY 2014
+BP 115
+EP 117
+DI 10.1057/9781137382559.0019
+D2 10.1057/9781137382559
+UT WOS:000333929100018
+ER
+
+PT B
+AU Mullan, PC
+AF Mullan, P. Carl
+BA Mullan, PC
+BF Mullan, PC
+TI FIN-2013-G001
+SO DIGITAL CURRENCY CHALLENGE: SHAPING ONLINE PAYMENT SYSTEMS THROUGH US
+   FINANCIAL REGULATIONS
+SE Palgrave Pivot
+AB On March 18, 2013, the Financial Crimes Enforcement Network issued interpretive guidance clarifying the applicability of the regulations implementing the Bank Secrecy Act to persons creating, obtaining, distributing, exchanging, accepting, or transmitting virtual currencies such as Bitcoin. The guidance explains only how FinCEN characterizes certain activities involving virtual currencies under the Bank Secrecy Act and FinCEN regulations. Under FinCEN's rules a Bitcoin miner may be an administrator. This guidance clarified that Bitcoin exchanges are considered money transmitters and are required to obtain all proper licenses to conduct business in the United States. This registration and licensing process includes the federal registration as a money service business.
+BN 978-1-137-38255-9; 978-1-137-38254-2
+PY 2014
+BP 118
+EP 130
+DI 10.1057/9781137382559.0020
+D2 10.1057/9781137382559
+UT WOS:000333929100019
+ER
+
+PT B
+AU Mullan, PC
+AF Mullan, P. Carl
+BA Mullan, PC
+BF Mullan, PC
+TI Global Bitcoin
+SO DIGITAL CURRENCY CHALLENGE: SHAPING ONLINE PAYMENT SYSTEMS THROUGH US
+   FINANCIAL REGULATIONS
+SE Palgrave Pivot
+AB Bitcoin offers a changing landscape on a global scale. It will be important, in future Bitcoin activity, for US law enforcement to carefully interact with foreign law enforcement and international regulatory policies. Bitcoin-related business fit nicely into Germany's existing regulations. Australia prohibits any kind of anonymous style digital currency product and has issued bank warnings. Canada offers room for Bitcoin business and does not yet see a need to license agents. While Bitcoin is popular in China, banks and businesses are now banned from trading BTC. The primary banking establishment in Thailand has issued a ban on Bitcoin.
+BN 978-1-137-38255-9; 978-1-137-38254-2
+PY 2014
+BP 131
+EP 137
+DI 10.1057/9781137382559.0021
+D2 10.1057/9781137382559
+UT WOS:000333929100020
+ER
+
+PT B
+AU Mullan, PC
+AF Mullan, P. Carl
+BA Mullan, PC
+BF Mullan, PC
+TI Bitcoin Challenges
+SO DIGITAL CURRENCY CHALLENGE: SHAPING ONLINE PAYMENT SYSTEMS THROUGH US
+   FINANCIAL REGULATIONS
+SE Palgrave Pivot
+AB Financial transparency is a growing global trend, especially in the United States. However, virtual currencies, such as Bitcoin, are moving away from greater customer identification and toward less transparency. Large differences exist between how virtual currency enthusiasts view decentralized currency and how regulatory agencies view Bitcoin. The decentralized virtual currency platform presents a challenge for money laundering investigations. In a competing US financial market, Bitcoin faces many well-funded existing bank products and tough competition from banks.
+BN 978-1-137-38255-9; 978-1-137-38254-2
+PY 2014
+BP 138
+EP 142
+DI 10.1057/9781137382559.0022
+D2 10.1057/9781137382559
+UT WOS:000333929100021
+ER
+
+PT B
+AU Mullan, PC
+AF Mullan, P. Carl
+BA Mullan, PC
+BF Mullan, PC
+TI Bitcoin Merchant Services
+SO DIGITAL CURRENCY CHALLENGE: SHAPING ONLINE PAYMENT SYSTEMS THROUGH US
+   FINANCIAL REGULATIONS
+SE Palgrave Pivot
+AB One possible future for Bitcoin in the United States would be as a commercial service provided by Bitcoin merchant services or BMSs. The service could deliver a turnkey payment platform taking the risk and headaches out of a merchant's hands. BMS could handle: refunds on merchandise returns, dispute resolution, theft protection and insurance on Bitcoin wallets and trading platforms, consumer protection and guarantees on performance of Bitcoin exchange transactions, and escrow payments on money remittance and commercial transactions.
+BN 978-1-137-38255-9; 978-1-137-38254-2
+PY 2014
+BP 143
+EP 145
+DI 10.1057/9781137382559.0023
+D2 10.1057/9781137382559
+UT WOS:000333929100022
+ER
+
+PT B
+AU Mullan, PC
+AF Mullan, P. Carl
+BA Mullan, PC
+BF Mullan, PC
+TI Bitcoin Opportunity
+SO DIGITAL CURRENCY CHALLENGE: SHAPING ONLINE PAYMENT SYSTEMS THROUGH US
+   FINANCIAL REGULATIONS
+SE Palgrave Pivot
+AB Digital currency is fast proving its worth as a medium of exchange and a store of value. Non-bank digital currencies should legally exist in America and could serve a major role in assisting members of this large consumer market. Bitcoin delivers a simple-to-use, inexpensive, secure, globally accepted payment product to the millions of Americans presently shut out of the banking system. Continued global growth of the digital unit as a currency and payment system is anticipated.
+BN 978-1-137-38255-9; 978-1-137-38254-2
+PY 2014
+BP 146
+EP 148
+DI 10.1057/9781137382559.0024
+D2 10.1057/9781137382559
+UT WOS:000333929100023
+ER
+
+PT B
+AU Mullan, PC
+AF Mullan, P. Carl
+BA Mullan, PC
+BF Mullan, PC
+TI The Future
+SO DIGITAL CURRENCY CHALLENGE: SHAPING ONLINE PAYMENT SYSTEMS THROUGH US
+   FINANCIAL REGULATIONS
+SE Palgrave Pivot
+AB Digital currency brings financial freedom and opportunity for people at all levels of society. Growth in digital currency systems is likely to continue unabated for the next several decades. A recognized trend is that any user can design and issue his or her own brand of currency. It is also possible that any new BSA regulations combined with a less-than-enthusiastic US banking community could force Bitcoin payment products and companies out of the US market.
+BN 978-1-137-38255-9; 978-1-137-38254-2
+PY 2014
+BP 149
+EP 159
+DI 10.1057/9781137382559.0025
+D2 10.1057/9781137382559
+UT WOS:000333929100024
+ER
+
+PT B
+AU Riegger, C
+   Vincon, T
+   Petrov, I
+AF Riegger, Christian
+   Vincon, Tobias
+   Petrov, Ilia
+BE IndrawanSantiago, M
+   Pardede, E
+   Salvadori, IL
+   Steinbauer, M
+   Khalil, I
+   AnderstKotsis, G
+TI Efficient Data and Indexing Structure for Blockchains in Enterprise
+   Systems
+SO IIWAS2018: THE 20TH INTERNATIONAL CONFERENCE ON INFORMATION INTEGRATION
+   AND WEB-BASED APPLICATIONS & SERVICES
+CT 20th International Conference on Information Integration and Web-Based
+   Applications and Services (iiWAS)
+CY NOV 19-21, 2018
+CL Yogyakarta, INDONESIA
+SP Assoc Comp Machinery
+AB Blockchains yield to new workloads in database management systems and K/V-Stores. Distributed Ledger Technology (DLT) is a technique for managing transactions in 'trustless' distributed systems. Yet, clients of nodes in blockchain networks are backed by 'trustworthy' K/V-Stores, like LevelDB or RocksDB in Ethereum, which are based on Log-Structured Merge Trees (LSM-Trees). However, LSM-Trees do not fully match the properties of blockchains and enterprise workloads.
+   In this paper, we claim that Partitioned B-Trees (PBT) fit the properties of this DLT: uniformly distributed hash keys, immutability, consensus, invalid blocks, unspent and off-chain transactions, reorganization and data state / version ordering in a distributed log-structure. PBT can locate records of newly inserted key-value pairs, as well as data of unspent transactions, in separate partitions in main memory. Once several blocks acquire consensus, PBTs evict a whole partition, which becomes immutable, to secondary storage. This behavior minimizes write amplification and enables a beneficial sequential write pattern on modern hardware. Furthermore, DLT implicate some type of log-based versioning. PBTs can serve as MV-Store for data storage of logical blocks and indexing in multi-version concurrency control (MVCC) transaction processing.
+BN 978-1-4503-6479-9
+PY 2014
+BP 173
+EP 182
+DI 10.1145/3282373.3282402
+UT WOS:000469241700025
+ER
+
+PT S
+AU Rong, Z
+AF Rong, Zhao
+BE Yaofei, L
+   Guiran, C
+   Zhen, L
+TI Bitcoin Present Situation and Its Applied Research
+SO PROCEEDINGS OF THE 2014 INTERNATIONAL CONFERENCE ON MECHATRONICS,
+   CONTROL AND ELECTRONIC ENGINEERING
+SE Advances in Intelligent Systems Research
+CT 4th International Conference on Mechatronics, Control and Electronic
+   Engineering (MCE)
+CY AUG 27-31, 2014
+CL Shenyang, PEOPLES R CHINA
+AB The development and orientation of bit-coin is the forefront of currency issue for it is directly related to the currency position of bit-coin and affects the progress direction of the world economy. At present, there are serious differences in people's discussion about the orientation of bit-coin, the typical representation of which is that they do not have a thorough understanding of the basic properties of bit-coin, neither is there a legal orientation for it, and especially that is a lack of the basis of methodology of various research. All these have been hindering the application and progress of bit-coin. By discussion the current classification and future development of bit-coin, we believe that the generation of bit-coin is a reflection of the Internet economy.
+SN 1951-6851
+BN 978-94-62520-31-8
+PY 2014
+VL 113
+BP 796
+EP 799
+UT WOS:000346305100179
+ER
+
+PT B
+AU Saputra, DE
+   Supangkat, SH
+AF Saputra, Dany Eka
+   Supangkat, Suhono Harso
+GP IEEE
+TI A Study of Electronic Cash Paradigm
+SO 2014 INTERNATIONAL CONFERENCE ON INFORMATION TECHNOLOGY SYSTEMS AND
+   INNOVATION (ICITSI)
+CT 2014 International Conference on Information Technology Systems and
+   Innovation (ICITSI)
+CY NOV 24-27, 2014
+CL Bandung, INDONESIA
+SP INST TEKNOLOGI BANDUNG, IEEE
+AB The usage of electronic payment has been a daily occurrence to today society. Electronic cash (e-cash) is a new kind of electronic payment. Therefore, the definition and scheme of e-cash is still not definite. However, the usage of e-cash is already increasing in rapid rate. For example, Suica Card in Japan and London's Oyster card. This paper review researches on e-cash from blind signature scheme to the famous BitCoin. From the review, we conclude that there are two kind of paradigm of e-cash, Centralized Paradigm and Decentralized Paradigm. The major difference between the two paradigms is their architecture of entity relationship. Centralized Paradigm has a single entity that oversees the system. Decentralized Paradigm is managed by community of users. We will show the properties of each paradigm and opportunity to improve each paradigm.
+RI Saputra, Dany Eka/W-9521-2019
+OI Saputra, Dany Eka/0000-0002-4908-9187
+BN 978-1-4799-6527-4
+PY 2014
+BP 273
+EP 278
+UT WOS:000380607700050
+ER
+
+PT S
+AU Skalak, P
+AF Skalak, Pavol
+GP SGEM
+TI VIRTUAL CURRENCIES - NEW PHENOMENON OF FINANCIAL MARKET
+SO POLITICAL SCIENCES, LAW, FINANCE, ECONOMICS AND TOURISM, VOL II
+SE International Multidisciplinary Scientific Conferences on Social
+   Sciences and Arts
+CT International Multidisciplinary Scientific Conferences on Social
+   Sciences and Arts (SGEM 2014)
+CY SEP 01-10, 2014
+CL Albena, BULGARIA
+SP Bulgarian Acad Sci, Acad Sci Czech Republ, Latvian Acad Sci, Polish Acad Sci, Russian Acad Sci, Serbian Acad Sci & Arts, Slovak Acad Sci Intro, Natl Acad Sci Ukraine, Natl Acad Sci Armenia, Sci Counc Japan, World Acad Sci TWAS, European Acad Sci, Arts & Lett, Acad Fine Arts Zagreb Croatia, Croatian Acad Sci & Arts, Acad Sci Moldova, Montenegrin Acad Sci & Arts, Georgian Acad Sci, Acad Fine Arts & Design Bratislava, Russian Acad Arts, Turkish Acad Sci, SGEM
+AB The concept of virtual currency started to be used mainly in 2008 when Bitcoin was introduced and has since gained traction with merchants around the world. This sort of currency has no central issuing authority, and uses a public ledger to verify transactions while preserving users' anonymity. This paper analyzes its positive and negative effects and focuses on development of selected virtual currencies like Bitcoin and Litecoin. It also tries to predict the future development of Bitcoin and compare it to other currencies. The rules for digital currencies are still shaping, which may result in significant fluctuations and significant losses of investors. Regulation of this market, however, will not be as easy as in the case of real currency. Yet even the virtual currency can significantly affect events on financial markets.
+SN 2367-5659
+BN 978-619-7105-26-1
+PY 2014
+BP 867
+EP 873
+UT WOS:000359614600110
+ER
+
+PT J
+AU Garber, L
+AF Garber, Lee
+TI Researchers: Flaw Could Undermine Bitcoin System
+SO COMPUTER
+SN 0018-9162
+EI 1558-0814
+PD DEC
+PY 2013
+VL 46
+IS 12
+BP 23
+EP 23
+UT WOS:000330195100009
+ER
+
+PT J
+AU Simonite, T
+AF Simonite, Tom
+TI Rise of the Bitcoin Millionaires
+SO TECHNOLOGY REVIEW
+SN 1099-274X
+PD SEP-OCT
+PY 2013
+VL 116
+IS 5
+BP 20
+EP +
+UT WOS:000323915800014
+ER
+
+PT J
+AU Aron, J
+AF Aron, Jacob
+TI I BELIEVE IN HONEST MONEY GOLD, SILVER, AND BITCOIN
+SO NEW SCIENTIST
+SN 0262-4079
+PD JUL 13
+PY 2013
+VL 219
+IS 2925
+BP 24
+EP 24
+UT WOS:000322103500017
+ER
+
+PT J
+AU Peck, ME
+AF Peck, Morgen E.
+TI THE BITCOIN ARMS RACE IS ON!
+SO IEEE SPECTRUM
+SN 0018-9235
+PD JUN
+PY 2013
+VL 50
+IS 6
+BP 11
+EP 13
+UT WOS:000319692200002
+ER
+
+PT S
+AU Decker, C
+   Wattenhofert, R
+AF Decker, Christian
+   Wattenhofert, Roger
+GP IEEE
+TI Information Propagation in the Bitcoin Network
+SO 13TH IEEE INTERNATIONAL CONFERENCE ON PEER-TO-PEER COMPUTING (P2P)
+SE IEEE International Conference on Peer-to-Peer Computing
+CT 13th IEEE International Conference on Peer-to-Peer Computing (P2P)
+CY SEP 09-11, 2013
+CL Trento, ITALY
+SP IEEE, IEEE Commun Soc, Univ Trento
+AB Bitcoin is a digital currency that unlike traditional currencies does not rely on a centralized authority. Instead Bitcoin relies on a network of volunteers that collectively implement a replicated ledger and verify transactions. In this paper we analyze how Bitcoin uses a multi-hop broadcast to propagate transactions and blocks through the network to update the ledger replicas. We then use the gathered information to verify the conjecture that the propagation delay in the network is the primary cause for blockchain forks. Blockchain forks should be avoided as they are symptomatic for inconsistencies among the replicas in the network. We then show what can be achieved by pushing the current protocol to its limit with unilateral changes to the client's behavior.
+SN 2161-3567
+BN 978-1-4799-0521-8
+PY 2013
+UT WOS:000330658600010
+ER
+
+PT B
+AU Luo, ZK
+   Shen, WF
+   Hu, LK
+AF Luo, Zhaokai
+   Shen, Wenfeng
+   Hu, Luokai
+GP IEEE
+TI Parallel Computing based Bitcoin Currency System Analysis Approach
+SO 2013 INTERNATIONAL CONFERENCE ON COMPUTER SCIENCES AND APPLICATIONS
+   (CSA)
+CT International Conference on Computer Sciences and Applications (CSA)
+CY DEC 14-15, 2013
+CL Hubei Univ Technol, Wuhan, PEOPLES R CHINA
+SP IEEE, IEEE Wuhan Sect
+HO Hubei Univ Technol
+AB With the rise and extensive usage of Bitcoin, a peer-to-peer electronic cash system beginning at 2008, the number of transactions is growing. In order to analyze the activity in this currency system, we present a parallel analysis approach for meeting the need of building the transaction graph of this financial system. In order to test the performance and the realistic possibility of our approach, we implemented our approach and conducted some comparing to test the performance of our system. Through the experiment, we confirmed that this method is highly efficient and reliable compared with the traditional method.
+BN 978-0-7695-5125-8
+PY 2013
+BP 483
+EP 486
+DI 10.1109/CSA.2013.118
+UT WOS:000357013800112
+ER
+
+PT B
+AU Sassower, R
+AF Sassower, Raphael
+BA Sassower, R
+BF Sassower, R
+TI Legality and Morality: Intellectual Property, Virtual Currency, and
+   Corporate Responsibility
+SO DIGITAL EXPOSURE: POSTMODERN, POSTCAPITALISM
+AB To better appreciate the moral hazards associated with digital technologies, it's useful to examine the debates over intellectual property rights, their legal and political frameworks as applied to a postcapitalist marketplace. Another litmus test is the introduction of virtual currency, "bitcoin," and its potential to overcome banking controls. Finally, corporate responsibility will be discussed in light of recent financial developments.
+BN 978-1-137-31240-2; 978-1-137-31239-6
+PY 2013
+BP 51
+EP 65
+UT WOS:000319319300005
+ER
+
+PT J
+AU Van Kampen, D
+   Coolidge, F
+   Martini, PS
+AF Van Kampen, Dirk
+   Coolidge, Frederick
+   Martini, Pietro San
+TI Cross-sample and cross-language invariance of the Five-Dimensional
+   Personality Test (5DPT): exploratory and confirmatory analyses using
+   Dutch, American and Italian samples
+SO PERSONALITY AND MENTAL HEALTH
+AB Demonstrating factor invariance across population characteristics is an important issue in personality assessment, particularly if considered from a semi-idiographic point of view. Using two Dutch samples of general population subjects, we conducted both exploratory and multigroup confirmatory factor analyses to investigate whether the clinically relevant and theory-informed Five-Dimensional Personality Test (5DPT) dimensionsInsensitivity, Extraversion, Neuroticism, Orderliness and Absorptionremain stable across subsamples that differ in terms of sex, age, educational level or the subjects' position on each of the 5DPT dimensions themselves. Using samples of American and Italian respondents, we performed similar analyses, testing the cross-language invariance of the 5DPT factors. To prevent workspace problems, the confirmatory analyses were executed on item parcels instead of individual items. The inter-factor correlations in these analyses were allowed to deviate from zero. Whether calculating the Tucker coefficients of factor similarity (exploratory analyses) or evaluating model fit by the cut-off criteria recommended by Hu and Bentler (confirmatory analyses), the results attested the invariance of the 5DPT factors, both across the eight sample parameters and across language. Copyright (c) 2012 John Wiley & Sons, Ltd.
+SN 1932-8621
+PD NOV
+PY 2012
+VL 6
+IS 4
+BP 303
+EP 324
+DI 10.1002/pmh.1199
+UT WOS:000310676900003
+ER
+
+PT J
+AU Wooten, D
+   Hillmer, A
+   Moirano, J
+   Ahlers, E
+   Slesarev, M
+   Tudorascu, D
+   Barnhart, T
+   Schneider, M
+   Christian, B
+AF Wooten, Dustin
+   Hillmer, Ansel
+   Moirano, Jeffrey
+   Ahlers, Elizabeth
+   Slesarev, Maxim
+   Tudorascu, Dana
+   Barnhart, Todd
+   Schneider, Mary
+   Christian, Bradley
+TI 5-HT1A sex based differences in BPND are due to K-Dapp and not B-max
+SO JOURNAL OF CEREBRAL BLOOD FLOW AND METABOLISM
+CT 9th International Symposium on Functional Neuroreceptor Mapping of the
+   Living Brain (NRM)
+CY AUG 09-11, 2012
+CL Baltimore, MD
+SN 0271-678X
+PD AUG
+PY 2012
+VL 32
+SU 1
+BP S142
+EP S143
+UT WOS:000307138000148
+ER
+
+PT J
+AU Lin, PH
+   Lee, WY
+   Wu, WC
+   Chen, WC
+AF Lin, Pei-Hsuan
+   Lee, Wen-Ya
+   Wu, Wen-Chung
+   Chen, Wen-Chang
+TI Synthesis, properties, and electrical memory characteristics of new
+   diblock copolymers of polystyrene--poly(styrene-pyrene)
+SO POLYMER BULLETIN
+AB In this study, we report the synthesis, properties, and electrical memory characteristics of new diblock copolymers polystyrene--poly(styrene-pyrene) (PS--P(St-Py)), prepared by combining atom transfer radical polymerization and Suzuki coupling reaction. The effects of the St-Py block chain length on the electronic energy level, photophysical properties, and memory characteristics were explored. The PS42--P(St-Py)(108) and PS66--P(St-Py)(67) devices exhibited a dynamic random access memory characteristics with different turn-on threshold voltages of -2.7 and -3.1 V, respectively. Moreover, these memory devices showed a high ON/OFF current ratio of 10(9) and were electrically stable for at least 10(4) s in both ON and OFF states. However, the PS113--P(St-Py)(45)-based device displayed an insulating state in a low current variation of 10(-12) to 10(-14) A, which had a short St-Py block length. The mechanism of the switching behavior was explained by the charge hopping conduction between the pyrene units with coexisting charge-trapping environment. The volatility of the memory effect was depended on the ability of charge trapping/back transferring of trapped charge. The present study suggested that the electrical memory characteristics could be efficiently tuned through the block ratio between insulating segment and pendant-conjugated segment of the diblock polymers.
+SN 0170-0839
+EI 1436-2449
+PD JUN
+PY 2012
+VL 69
+IS 1
+BP 29
+EP 47
+DI 10.1007/s00289-011-0686-6
+UT WOS:000304155300003
+ER
+
+PT J
+AU Aron, J
+AF Aron, Jacob
+TI Bitcoin rises again
+SO NEW SCIENTIST
+SN 0262-4079
+PD JAN 14
+PY 2012
+VL 213
+IS 2847
+BP 20
+EP 20
+UT WOS:000299364500015
+ER
+
+PT B
+AU Alkawasmi, E
+   Arnautovic, E
+   Svetinovic, D
+AF Alkawasmi, Enas
+   Arnautovic, Edin
+   Svetinovic, Davor
+GP IEEE
+TI Requirements Model for a High-Privacy Decentralized Carbon Emissions
+   Trading Platform
+SO 2012 IEEE INTERNATIONAL CONFERENCE ON GREEN COMPUTING AND
+   COMMUNICATIONS, CONFERENCE ON INTERNET OF THINGS, AND CONFERENCE ON
+   CYBER, PHYSICAL AND SOCIAL COMPUTING (GREENCOM 2012)
+CT IEEE/ACM International Conference on Green Computing and Communications
+   (GreenCom) / IEEE International Conference on Internet of Things
+   (iThings) / 5th IEEE International Conference on Cyber, Physical and
+   Social Computing (CPSCom)
+CY NOV 20-23, 2012
+CL Besancon, FRANCE
+SP IEEE, IEEE Comp Soc, Univ Franche-Comte (UFC), CNRS, IEEE Tech Comm Scalable Comp (TCSC), ACM, FEMTO-ST Sci and Technologies
+AB This paper elicits and models the requirements of a decentralized carbon emissions trading platform (CarboCoin). CarboCoin platform is based on the Bitcoin, a peer-to-peer digital currency with no central authority. CarboCoin is focused on providing high privacy protection for participants in order to encourage more engagement in carbon emissions reduction process. CarboCoin requirements are elicited and specified based on the Bitcoin design principles, algorithms, and platform specifications. CarboCoin platform should facilitate high-privacy carbon emissions trading, and increase private individuals engagement in the trading process.
+BN 978-0-7695-4865-4; 978-1-4673-5146-1
+PY 2012
+BP 450
+EP 453
+DI 10.1109/GreenCom.2012.71
+UT WOS:000316905100063
+ER
+
+PT J
+AU Ni, HG
+   Gao, J
+   Zhao, ZL
+   Wang, XP
+AF Ni Huagang
+   Gao Jie
+   Zhao Zeliang
+   Wang Xinping
+TI EFFECT OF SELECTIVE SOLVENTS FOR B BLOCK ON SURFACE SEGREGATION OF
+   FLUORINE-CONTAINING ABC TRIBLOCK COPOLYMERS
+SO ACTA POLYMERICA SINICA
+AB Novel ABC triblock copolymers of poly(methyl methacrylate)-b-poly(n-butyl methacrylate) (or n-octadecyl methacrylate)-b-poly(2-perfluorooctylethyl methacrylate) (PMMA(230)-b-PBMA(12) (or PODMA(12))-b-PFMA(n)) were synthesized by atom transfer radical polymerization(ATRP). The effect of selective solvents on surface structure of the triblock copolymers film was investigated by X-ray photoelectron spectroscopy (XPS), X-ray diffraction (XRD) and dynamic light scattering (DLS). The higher surface enrichment of fluorinated moieties in PMMA(230)-b-PBMA(12)-b-PFMA(1) was found as the film was cast by cyclohexanone solution, compared to the film cast by toluene solution. When the length of PFMA units was about 4, the ratio of fluorine to carbon was nearly the same. As for PMMA(230)-b-PODMA(12)-b-PFMA(n), the fluorinated moieties can segregate more easily on the surface as the film was cast with toluene solution, compared to the film cast from cyclohexanone solution. The reason could be attributed to the difference in compatibility between solvent and the middle block in triblock copolymers, which would affect the stability of triblock copolymers micelle in various solutions. When the solvent was the good solubility for the middle block chain, there were unstable and loose packed micellar aggregates in solution. The unstable micelle of the triblock copolymer in solution was in favor of fluorine segregation on the surface during film-formation. During film formation, the perfluoroalkyl side chains can easily segregate to the surface and be packed in a well-ordered manner, resulting in enhanced surface enrichment of fluorine element. The results suggest that copolymer solution properties, may play an important role in structure formation on the solid surface, in addition to for the molecular chain structures of copolymers.
+SN 1000-3304
+PD MAY 20
+PY 2011
+IS 5
+BP 452
+EP 460
+DI 10.3724/SP.J.1105.2011.11031
+UT WOS:000291240400004
+ER
+
+PT S
+AU Saleem, MQ
+   Jaafar, J
+   Hassan, MF
+AF Saleem, Muhammad Qaiser
+   Jaafar, Jafreezal
+   Hassan, Mohd Fadzil
+BE Zain, JM
+   Mohd, WMB
+   ElQawasmeh, E
+TI Security Modeling of SOA System Using Security Intent DSL
+SO SOFTWARE ENGINEERING AND COMPUTER SYSTEMS, PT 3
+SE Communications in Computer and Information Science
+CT 2nd International Conference on Software Engineering and Computing
+   Systems (ICSECS 2011)
+CY JUN 27-29, 2011
+CL Univ Malaysia Pahang, Kuantan, MALAYSIA
+SP Springer
+HO Univ Malaysia Pahang
+AB Currently most of the enterprises are using SOA and Web Services technologies to build their web information system. MDA principles are used to develop web service and they used UML as a modelling language for business process modelling. Along with the increased connectivity in SOA environment, security risks rise exponentially. Security is not defined during the early phases of development and left onto developer. Properly configuring security requirements in SOA applications is quite difficult for developers because they are not security experts. Furthermore SOA security is cross-domain and all required information are not available at downstream phases. General purpose modelling language like UML lacks the model elements to define the security requirements of the business processes. As a result, business process expert either ignore the security intents in their model or indicate them in textual way. A security, intents DSL is presented as a UML profile where security intents can be modelled as stereotypes on UML modelling elements during the business process modelling. Aim is to facilitate the business process expert in modelling the security requirements along the business process modelling. This security annotated business process model will facilitate the security expert in specifying the concrete security implementation. As a proof of work we apply our approach to a typical on-line flight booking system business process.
+OI Saleem, Muhammad Qaiser/0000-0002-1121-283X
+SN 1865-0929
+EI 1865-0937
+BN 978-3-642-22202-3
+PY 2011
+VL 181
+BP 176
+EP 190
+UT WOS:000303027200016
+ER
+
+PT J
+AU Liu, L
+   Peng, XS
+   Chu, LJ
+   Liu, QA
+   Xiong, JA
+   Jing, CM
+   Xia, YW
+   Shi, Y
+AF Liu, Lan
+   Peng, Xuesong
+   Chu, Lijuan
+   Liu, Qian
+   Xiong, Juan
+   Jing, Chunmei
+   Xia, Yongwu
+   Shi, Yu
+TI Analysis of early-stage infection risk factors after living donor liver
+   transplantation in 25 children
+SO AFRICAN JOURNAL OF MICROBIOLOGY RESEARCH
+AB Living donor liver transplantation (LDLT), which was first demonstrated in 1989, has now been widely used to cure many late-stage hepatic diseases and has achieved huge success, especially in the pediatric field. However, accumulated studies indicate that early-stage infection after LDLT is the main cause leading to its failure and the death of the patient. Here, we retrospectively analyzed 25 cases (from 2006 to 2009) of infections of children in our hospital, underwent LDLT and their correlated factors. To identify the factors most closely related to early stage infection, we categorized early stage infection levels as either mild, moderate or severe and we compared their related risk factors, including total length of stay in hospital (TLSH), length of stay in the intensive care unit (LSI), duration of catheterization (DC), length of pre-/post-operative antimicrobial agent application, length of immunosuppressant agent application (LISA) and underlying diseases postoperatively. The results revealed the following. (i) Of 25 patients, 24 recipients were infected to various extents: 6 cases of mild infection, 14 cases of moderate infection and 4 cases of severe infection (one patient died). (ii) TLSH, LSI and durations of preoperative (DPAA) and postoperative (DPOAA) antimicrobial agent application were statistically different between the severe and moderate infection groups (P = 0.03 (TLSH), 0.004 (LSI), 0.003 (LAPP), 0.005 (DPOAA). (iii) Between the severe and mild infection groups, the TLSH (P = 0.016), LSI (P = 0.015), DAPP (P = 0.007) and DPOAA (P = 0.001) were also significantly different. (iv) In the case of LISA, only methylprednisolone (P = 0.01) and the calcineurin inhibitor ciclosporin A (P = 0.009) showed statistically significant differences between the moderate and mild infection groups. (v) Biliary atresia is the predominant underlying liver disease. (vi) In contrast to previous findings, there was no significant difference in DC among the three infection groups. (vii) Of all the 25 patients, 24 survive till now and the only one died was diagnosed as portal vein thrombosis (PVT) combined with high white blood count (>30 x 10(9)/l) in venous blood. DPAA, DPOAA and biliary atresia are the risk factors most closely related to infection during liver transplantation in children, an observation worthy of future investigation. To avoid long term DPAA and long term DPOAA induced early severe infection, nosocomial infection control and drug resistant bacteria monitoring are worthy to be concerned after LDLT in children.
+SN 1996-0808
+PD AUG 18
+PY 2010
+VL 4
+IS 16
+BP 1747
+EP 1753
+UT WOS:000282051700014
+ER
+
+PT B
+AU Basseches, M
+   Mascolo, MF
+AF Basseches, Michael
+   Mascolo, Michael F.
+BA Basseches, M
+   Mascolo, MF
+BF Basseches, M
+   Mascolo, MF
+TI The Developmental Analysis of Psychotherapy Process (DAPP) Method
+SO PSYCHOTHERAPY AS A DEVELOPMENTAL PROCESS
+BN 978-0-203-88278-8; 978-0-8058-5730-6
+PY 2010
+BP 115
+EP 149
+UT WOS:000289553000006
+ER
+
+PT B
+AU Rogers, CM
+   Hofseth, KD
+   Males, RM
+AF Rogers, Cory M.
+   Hofseth, Keith D.
+   Males, Richard M.
+BE Bruzzone, A
+   Cunha, G
+   Frydman, C
+   Giambiasi, N
+   Mekouar, K
+   Merkuriev, Y
+   Piera, MA
+TI DATA ANALYSIS AND PROCESSING TOOL FOR AUTOMATIC IDENTIFICATION SYSTEM
+   (AIS) VESSEL DATA TO SUPPORT SIMULATION MODELING
+SO 13TH INTERNATIONAL CONFERENCE ON HARBOR MARITIME MULTIMODAL LOGISTICS
+   MODELING & SIMULATION
+CT 13th International Conference on Harbor Maritime Multimodal Logistics
+   Modeling and Simulation
+CY OCT 13-15, 2010
+CL Fez, MOROCCO
+SP DIPTEM Univ Genoa, Liophant Simulat, Ecole Superieure Ingn Sci Appliquees, Univ Aix Marseille, Lab Sci Informat Syst, Univ Calabria, Mech Dept, Model & Simulat Ctr, Lab Enterprise Solut, MSLS Autonomous Univ Barcelona, Simulat Team, McLeod Inst Simulat Sci, Model & Simulat Network, Int Mediterranean & Latin Amer Council Simulat, Univ La Laguna, Riga Tech Univ, Miss Latvian Ctr, Univ Autonomous Barcelona, Miss Spanish Ctr, Univ Perugia, Management & Adv Solut & Technol, LAMCE, UFRJ, CIFASIS CONICET UNR UPCAM
+AB Automated Identification System (AIS) data provides ship tracking information for cargo vessels in coastal waters. Information includes vessel position, speed, draught, dimensions, and destination port. This information is updated on an hourly basis. The analysis of MS data for individual vessels and for a given port provides a large amount of useful information on vessel routes and loading that can be used in conjunction with port simulation models. The Institute for Water Resources of the US. Army Corps of Engineers is developing the Automatic Identification System - Data Analysis and. Pre-Processor (AIS-DAPP) tool for visualization and analysis that can be used to support simulation modeling and planning activities. The AIS-DAPP applies genome sequencing practices to identify services from the data. It also works seamlessly with Google Earth (TM) for spatial visualization and incorporates analytical routines to determine common routes, speed within channels, and draught entering and leaving a port, all needed for simulation modeling.
+BN 978-2-9524747-4-0
+PY 2010
+BP 47
+EP +
+UT WOS:000316153400007
+ER
+
+EF
