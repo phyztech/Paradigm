@@ -4070,3 +4070,4 @@ S2F/blocks/blockchair_bitcoin_blocks_20200224.tsv
 S2F/blocks/blockchair_bitcoin_blocks_20200225.tsv
 S2F/blocks/blockchair_bitcoin_blocks_20200226.tsv
 S2F/price/market-price-3day-interval.csv
+*.csv
